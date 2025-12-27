@@ -1,0 +1,7 @@
+{
+  "name": "思南随记语音2.0",
+  "description": "一个多彩、智能的莫兰迪色系记账APP，支持语音智能记账",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
